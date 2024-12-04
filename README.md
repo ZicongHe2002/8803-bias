@@ -5,7 +5,7 @@ the access token of llama7b
 pip install -r requirement.txt
 
 how to train this llama:
-python finetune1.py
+python bias_jug.py
 
 how to generate the answer:
-python g1.py
+python generate_bias_jud.py
